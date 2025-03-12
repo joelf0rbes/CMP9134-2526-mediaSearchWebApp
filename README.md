@@ -7,7 +7,7 @@ This is a simple full-stack web application composed of a backend and a frontend
 Open a Terminal, the launch the following commands:
 
 ```Bash
-git clone https://github.com/francescodelduchetto/CMP9134-2425-basicWebApp
+git clone git@github.com:joelf0rbes/CMP9134-2526-mediaSearchWebApp.git
 ```
 
 ## 2. Open Visual Studio Code Container
